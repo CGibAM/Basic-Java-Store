@@ -32,7 +32,7 @@ public class ShoppingCart {
 		this.singleUnit = single_unit;
 	}
 
-	public Double getUnitario() {
+	public Double getUnitary() {
 		return singleUnit;
 	}
 	//format the elements on the shopping cart to show the name and price

@@ -1,4 +1,4 @@
-package com.liebre.proyect;
+package com.project.project;
 
 public class ShoppingCart {
 	private String productName;
@@ -32,7 +32,7 @@ public class ShoppingCart {
 		this.singleUnit = single_unit;
 	}
 
-	public Double getUnitary() {
+	public Double getUnitario() {
 		return singleUnit;
 	}
 	//format the elements on the shopping cart to show the name and price
